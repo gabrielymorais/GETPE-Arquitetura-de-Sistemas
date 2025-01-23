@@ -100,7 +100,7 @@ project_name/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Mandysan123/GETPE-Arquitetura-de-Sistemas.git
-   cd project_name
+   cd GETPE-Arquitetura-de-Sistemas
    ```
 
 3. Instale as dependências:
